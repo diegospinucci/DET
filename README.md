@@ -27,10 +27,11 @@ Instalação das dependências:
 ```bash
 pip install PyQt5 fpdf
 
-
+```
 ## 🚀 Como instalar
 
 1 - Clone este repositório ou copie os arquivos para sua máquina.
+
 2 - Crie um ambiente virtual (opcional, mas recomendado):
 
 python -m venv ambiente
@@ -39,9 +40,9 @@ ambiente\Scripts\activate      # Windows
 
 3 - Instale as dependências listadas acima.
 4 - Execute o arquivo principal:
-
+```bash
 python det.py
-
+```
 ## 🖥️ Como usar
 
 1.  Abra a aplicação com python det.py.
